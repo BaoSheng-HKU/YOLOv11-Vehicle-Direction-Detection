@@ -33,3 +33,7 @@ If you **haven’t installed Git LFS**, please do so before cloning or pulling t
 ```bash
 git lfs install
 ```
+
+### 📷 Example Output
+
+![Example](example_output.jpg)
